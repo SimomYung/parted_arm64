@@ -1,4 +1,4 @@
-prefix=/home/localhost/Downloads/libuuid
+prefix=/home/localhost/Downloads/share
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
