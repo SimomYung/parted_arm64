@@ -14,7 +14,7 @@ The cross-compiler I use is `arm-gnu-toolchain-13.3.rel1-x86\_64-aarch64-none-li
 # aarch64-none-linux-gnu-strip -s parted
 ~~~
 
-## 3\. thanks
+## 3\. acknowledgments 致谢
 * parted (v3.7 [https://ftp.gnu.org/gnu/parted/](https://ftp.gnu.org/gnu/parted/))
 * libuuid (from e2fsprogs v1.47.4 [https://e2fsprogs.sourceforge.net/](https://e2fsprogs.sourceforge.net/))
 * readline ( v8.3 [https://ftp.gnu.org/gnu/readline/](https://ftp.gnu.org/gnu/readline/))
